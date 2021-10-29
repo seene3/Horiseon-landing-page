@@ -74,6 +74,7 @@ p {
     margin-left: 25px;
 }
 
+/* setting size for everything within content class*/
 .content {
     width: 75%;
     display: inline-block;
